@@ -12,6 +12,7 @@ ECC ("the agent harness operating system") is a Claude Code plugin — plus manu
 ## What it's good for
 
 - Bootstrapping a coding agent (Claude Code, Codex, Cursor, etc.) with a consistent set of review, planning, and testing workflows across a team or project.
+- Adding language-specific rules and skills (TypeScript, Python, Go, Java, Kotlin, Rust, PHP, Swift, and more) so an agent follows established idioms per stack.
 - Running automated security scans on agent-generated code via the bundled AgentShield tool.
 - Persisting context/memory across agent sessions instead of starting from scratch each time.
 - Auto-extracting reusable "instincts"/skills from past agent sessions (continuous learning).
