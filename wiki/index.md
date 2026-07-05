@@ -6,9 +6,11 @@
 - [[infiniflow__ragflow]] — An open-source Retrieval-Augmented Generation engine that combines document understanding with agent capabilities.
 - [[langchain-ai__langchain]] — A Python framework for building agents and LLM-powered applications from interoperable components.
 - [[microsoft__ai-agents-for-beginners]] — A free Microsoft course of lessons that teaches the fundamentals of building AI agents.
+- [[Significant-Gravitas__AutoGPT]] — A platform for building, deploying, and running continuous AI agents that automate complex workflows.
 
 ## memory
 
+- [[letta-ai__letta]] — A platform for building stateful AI agents with advanced memory that persists and improves over time.
 - [[thedotmack__claude-mem]] — A plugin that gives Claude Code (and similar agents) persistent memory across sessions by compressing and re-injecting past context.
 
 ## skills/plugins

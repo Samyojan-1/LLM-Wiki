@@ -138,5 +138,19 @@
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
     "stars": 62563,
     "default_branch": "master"
-  }
+  },
+  {
+  "full_name": "letta-ai/letta",
+  "html_url": "https://github.com/letta-ai/letta",
+  "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+  "stars": 23658,
+  "default_branch": "main"
+},
+{
+  "full_name": "Significant-Gravitas/AutoGPT",
+  "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+  "stars": 185373,
+  "default_branch": "master"
+}
 ]
